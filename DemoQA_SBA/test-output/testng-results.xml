@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[value entered in Search field]]>
+    </line>
+    <line>
+      <![CDATA[Search Button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[value entered in Sort by Lowest price]]>
+    </line>
+    <line>
+      <![CDATA[value entered in Lowest price product]]>
+    </line>
+    <line>
+      <![CDATA[value entered in Sort by Lowest price]]>
+    </line>
+    <line>
+      <![CDATA[value entered in Lowest price product]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43859" started-at="2017-06-23T07:12:00Z" finished-at="2017-06-23T07:12:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43859" started-at="2017-06-23T07:12:00Z" finished-at="2017-06-23T07:12:44Z">
+      <class name="com.automation.tests.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.automation.tests.NewTest@94ce18]" name="beforeTest" is-config="true" duration-ms="10800" started-at="2017-06-23T12:42:00Z" finished-at="2017-06-23T12:42:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:com.automation.tests.NewTest@94ce18]" name="Test" duration-ms="31400" started-at="2017-06-23T12:42:11Z" finished-at="2017-06-23T12:42:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[value entered in Search field]]>
+            </line>
+            <line>
+              <![CDATA[Search Button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[value entered in Sort by Lowest price]]>
+            </line>
+            <line>
+              <![CDATA[value entered in Lowest price product]]>
+            </line>
+            <line>
+              <![CDATA[value entered in Sort by Lowest price]]>
+            </line>
+            <line>
+              <![CDATA[value entered in Lowest price product]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.automation.tests.NewTest@94ce18]" name="afterTest" is-config="true" duration-ms="1645" started-at="2017-06-23T12:42:43Z" finished-at="2017-06-23T12:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.automation.tests.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
